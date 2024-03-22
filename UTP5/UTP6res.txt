@@ -1,0 +1,24 @@
+andes danes deans evil gals lags levi live sedanslag streets testers uprising veil vilec00004;Nowak Anna;banany;4.0;50.0c00003;Kowalski Jan;mleko;4.0;5.0c00001;Kowalski Jan;mleko;4.0;10.0c00001;Kowalski Jan;mleko;5.0;2.0c00002;Malina Jan;mleko;4.0;2.0c00002;Malina Jan;chleb;3.0;5.0c00001;Kowalski Jan;bulka;2.0;100.0Cars:- Fiat: 15, Ford: 20- Opel: 8, Mitsubishi: 10andes danes deans evil gals lags levi live sedan
+slag streets testers uprising veil vile
+c00004;Nowak Anna;banany;4.0;50.0
+c00003;Kowalski Jan;mleko;4.0;5.0
+c00001;Kowalski Jan;mleko;4.0;10.0
+c00001;Kowalski Jan;mleko;5.0;2.0
+c00002;Malina Jan;mleko;4.0;2.0
+c00002;Malina Jan;chleb;3.0;5.0
+c00001;Kowalski Jan;bulka;2.0;100.0
+Cars:
+- Fiat: 15, Ford: 20
+- Opel: 8, Mitsubishi: 10
+andes danes deans evil gals lags levi live sedan
+slag streets testers uprising veil vile
+c00004;Nowak Anna;banany;4.0;50.0
+c00003;Kowalski Jan;mleko;4.0;5.0
+c00001;Kowalski Jan;mleko;4.0;10.0
+c00001;Kowalski Jan;mleko;5.0;2.0
+c00002;Malina Jan;mleko;4.0;2.0
+c00002;Malina Jan;chleb;3.0;5.0
+c00001;Kowalski Jan;bulka;2.0;100.0
+Cars:
+- Fiat: 15, Ford: 20
+- Opel: 8, Mitsubishi: 10
